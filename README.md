@@ -1,0 +1,1 @@
+# IA-generativa-copilot-OpenAI
